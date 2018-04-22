@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+*.hdf5
+*.vec
+*.bin
+fasttext_bootstrapping_800000.txt
+fasttext_train_and_public.txt
+fasttext_train_and_public_and_final.txt
